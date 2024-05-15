@@ -4,8 +4,5 @@
     { "id": 2, "titulo": "Cristiano Ronaldo"},
     { "id": 3, "titulo": "Messi"},
     { "id": 4, "titulo": "Wesley"}
-  ],
-  "qualquer": { 
-     "id": 1, "titulo": "sei lá"
-  }
+  ]
 }
