@@ -1,11 +1,11 @@
 {
-  "Melhores Jogadores": [
-  { "id": 1, "titulo": "Neymar junior"},
-  { "id": 2, "titulo": "Cristiano Ronaldo"},
-  { "id": 3, "titulo": "Messi"},
-  { "id": 4, "titulo": "Wesley"}
+  "jogadores": [
+    { "id": 1, "titulo": "Neymar junior"},
+    { "id": 2, "titulo": "Cristiano Ronaldo"},
+    { "id": 3, "titulo": "Messi"},
+    { "id": 4, "titulo": "Wesley"}
   ],
-  "qualquer coisa":[ 
-  { "id": 1, "titulo": "sei lá"}
+  "qualquer": [ 
+    { "id": 1, "titulo": "sei lá"}
   ],
 }
